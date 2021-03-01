@@ -1,5 +1,6 @@
-<p align="center">
+
 <h1 align="center">Hi there 👋</h1>
+<p align="center">
 <img alt="theastrowolfe" align="center" src="https://github-readme-stats.vercel.app/api?username=theastrowolfe" />
 </p>
 
