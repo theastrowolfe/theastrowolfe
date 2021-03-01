@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img alt="theastrowolfe" align="center" src="https://github-readme-stats.vercel.app/api?username=theastrowolfe" />
+
 <!--
 ![mona-whisper](https://github.githubassets.com/images/mona-whisper.gif)
 
